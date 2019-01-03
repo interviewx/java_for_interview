@@ -1,6 +1,0 @@
-boxing and autoboxing
-
-visitor pattern
-
-design patterns
-
