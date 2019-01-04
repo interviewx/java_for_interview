@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f0f1d1a-e772-42f5-9211-d74007325de6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/java_for_interview_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/java_for_interview_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/java_for_interview.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TwoSum.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/design.txt" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
